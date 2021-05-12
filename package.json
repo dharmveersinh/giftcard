@@ -3,7 +3,7 @@
   "main": "index.js",
   "dependencies": {
     "@maticnetwork/dagger": "^0.1.0",
-    "chart.js": "2.9.3",
+    "chart.js": "2.9.4",
     "classnames": "2.2.6",
     "click-to-copy": "^1.0.7",
     "crypto-js": "^4.0.0",
